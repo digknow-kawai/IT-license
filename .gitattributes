@@ -1,0 +1,7 @@
+# VBEのエクスポート形式（Shift-JIS / CRLF）で作業し、リポジトリ内はUTF-8で保存する
+*.bas working-tree-encoding=CP932 eol=crlf
+*.cls working-tree-encoding=CP932 eol=crlf
+*.frm working-tree-encoding=CP932 eol=crlf
+*.frx binary
+*.xlsm binary
+*.xlsx binary
